@@ -1,3 +1,5 @@
+package com.open_bootcamp;
+
 public class Personados {
 
     public static void main(String [] args) {
